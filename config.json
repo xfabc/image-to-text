@@ -1,0 +1,1 @@
+{"embed_dim": 2048, "hidden_dim": 2048, "vocab_size": 14, "num_layers": 1, "transform_config": {"Resize": {"size": [224, 224]}, "ToTensor": {}}}
